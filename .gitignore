@@ -1,5 +1,7 @@
 .ipynb_checkpoints/
 .idea/*
+idea/
+idea
 work
 work/*
 .draw/*
