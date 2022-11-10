@@ -58,3 +58,5 @@
 # R2 = D2/2
 # print(re[not R1-R2<=10])
 
+print(2+2)
+
