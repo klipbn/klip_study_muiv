@@ -51,10 +51,10 @@
 #     else:
 #         print(a[0])
 
-D1 = 2.3
-D2 = 3.3
-re = ["da", "net"]
-R1 = D2/2
-R2 = D2/2
-print(re[not R1-R2<=10])
+# D1 = 2.3
+# D2 = 3.3
+# re = ["da", "net"]
+# R1 = D2/2
+# R2 = D2/2
+# print(re[not R1-R2<=10])
 
